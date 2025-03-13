@@ -16,15 +16,25 @@ Agno is a powerful agentic AI framework that enables seamless integration of LLM
 This repository contains various hands-on projects demonstrating Agno’s capabilities, including:
 
 🌍 Web Search Agent – Retrieves real-time information using the DuckDuckGo API
+
 📊 Data Analysis Agent – Uses Pandas and Matplotlib for automated EDA
+
 💬 Conversational AI – Enhances LLM interactions with tool integrations
+
 📰 News Summary Agent – Fetches and summarizes trending news articles
+
 📅 Task Management AI – Automates scheduling and reminders
+
 Each project is structured with clear installation steps, usage instructions, and code explanations to help you understand how Agno works.
 
 # Technologies Used
+
 🧠 Agno – Agentic AI framework
+
 🏗 LLMs (Groq, OpenAI, etc.) – Large language models
+
 🔍 DuckDuckGo API – Web search integration
+
 🗄 Python-dotenv – Secure environment variable management
+
 ⚡ Streamlit (Optional) – Interactive AI dashboards
