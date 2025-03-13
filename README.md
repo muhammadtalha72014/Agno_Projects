@@ -3,9 +3,13 @@ Welcome to my Agno AI Projects repository! 🚀 This repository contains various
 
 # About Agno
 Agno is a powerful agentic AI framework that enables seamless integration of LLMs with external tools, APIs, and knowledge sources. It provides a structured way to build intelligent agents that can:
+
 ✅ Process and analyze information in real-time
+
 ✅ Perform automated reasoning and decision-making
+
 ✅ Integrate with various tools for enhanced capabilities
+
 ✅ Stream responses dynamically for interactive AI experiences
 
 # Projects Included
